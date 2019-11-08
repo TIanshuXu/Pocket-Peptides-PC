@@ -5,6 +5,6 @@ This is an interactive protein design game.
 
 Email: 117108615@umail.ucc.ie
 
-This project can be viewed and edited with [Unity 2019.1.10f1](https://unity3d.com/unity/whats-new/2019.1.10)
+This project can be viewed and edited with [Unity 2019.1.10f1](https://unity3d.com/unity/whats-new/2019.1.10).
 
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-PC/blob/master/Example_Images/Example.png)

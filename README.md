@@ -10,8 +10,13 @@ This project can be viewed and edited with [Unity 2019.1.10f1](https://unity3d.c
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-PC/blob/master/Example_Images/Example.png)
 
 Instructions:
+
   step01:
+  
   step02:
+  
   step03: Drag and Drop the protein icons to the center, to get the combinations
+  
   step04:
+  
   step05:

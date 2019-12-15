@@ -11,12 +11,10 @@ This project can be viewed and edited with [Unity 2019.1.10f1](https://unity3d.c
 
 Instructions:
 
-  step01:
+  step01: Double click on the "Pocket Peptides 2.0.exe" file to turn it on
   
-  step02:
+  step02: Click on "Play" button to start the game, follow the tutorial in the game
   
   step03: Drag and Drop the protein icons to the center, to get the combinations
   
-  step04:
-  
-  step05:
+  step04: Once the model isn't moving any more, click on the "Submit" button (an up arrow) to submit your solution

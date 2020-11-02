@@ -6871,6 +6871,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Option Panel
       objectReference: {fileID: 0}
+    - target: {fileID: 3836727732293737096, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3836727732293737099, guid: 8bf7856be5d803840a3c2b24fdfed31d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6991,6 +6996,81 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
       objectReference: {fileID: 1627487505}
+    - target: {fileID: 3836727731963886368, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731963886368, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731809962134, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731809962134, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731809962134, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727730610891415, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727730610891415, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727730610891415, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727732387908655, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727732387908655, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731300522514, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727731300522514, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727732543332576, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727732543332576, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3836727732543332576, guid: 8bf7856be5d803840a3c2b24fdfed31d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bf7856be5d803840a3c2b24fdfed31d, type: 3}
 --- !u!1001 &5916135988272410874
@@ -7000,11 +7080,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5916135989866188266, guid: b0a06fd81e8cab540ad413b26de76099,
-        type: 3}
-      propertyPath: m_Name
-      value: Audio Manager
-      objectReference: {fileID: 0}
     - target: {fileID: 5916135989866188267, guid: b0a06fd81e8cab540ad413b26de76099,
         type: 3}
       propertyPath: sounds.Array.size
@@ -7068,6 +7143,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3102181183434370644, guid: ff4d7b15f05f8e94da7f72f10c981cbe,
         type: 2}
+    - target: {fileID: 5916135989866188266, guid: b0a06fd81e8cab540ad413b26de76099,
+        type: 3}
+      propertyPath: m_Name
+      value: Audio Manager
+      objectReference: {fileID: 0}
     - target: {fileID: 5916135989866188264, guid: b0a06fd81e8cab540ad413b26de76099,
         type: 3}
       propertyPath: m_LocalPosition.x
